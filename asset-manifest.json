@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dda53cf4.css",
+    "main.js": "/static/js/main.3ca76340.js",
+    "static/js/787.4db5dedc.chunk.js": "/static/js/787.4db5dedc.chunk.js",
+    "static/media/home.png": "/static/media/home.eb21c08ab32faf047a8d.png",
+    "static/media/Foto Gue Nih.png": "/static/media/Foto Gue Nih.66525bd0b2d733f7c368.png",
+    "static/media/acsent.png": "/static/media/acsent.b3f884602fbc0d88eecf.png",
+    "index.html": "/index.html",
+    "main.dda53cf4.css.map": "/static/css/main.dda53cf4.css.map",
+    "main.3ca76340.js.map": "/static/js/main.3ca76340.js.map",
+    "787.4db5dedc.chunk.js.map": "/static/js/787.4db5dedc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dda53cf4.css",
+    "static/js/main.3ca76340.js"
+  ]
+}
