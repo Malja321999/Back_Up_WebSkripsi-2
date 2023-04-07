@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.1cf1f140.css",
+    "main.css": "/static/css/main.a6b9c20d.css",
     "main.js": "/static/js/main.ab7eecc9.js",
     "static/js/787.4db5dedc.chunk.js": "/static/js/787.4db5dedc.chunk.js",
     "static/media/home.png": "/static/media/home.eb21c08ab32faf047a8d.png",
@@ -8,12 +8,12 @@
     "static/media/PetaKonsep.png": "/static/media/PetaKonsep.17fcb70a2fc92e5fb446.png",
     "static/media/acsent.png": "/static/media/acsent.b3f884602fbc0d88eecf.png",
     "index.html": "/index.html",
-    "main.1cf1f140.css.map": "/static/css/main.1cf1f140.css.map",
+    "main.a6b9c20d.css.map": "/static/css/main.a6b9c20d.css.map",
     "main.ab7eecc9.js.map": "/static/js/main.ab7eecc9.js.map",
     "787.4db5dedc.chunk.js.map": "/static/js/787.4db5dedc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cf1f140.css",
+    "static/css/main.a6b9c20d.css",
     "static/js/main.ab7eecc9.js"
   ]
 }
