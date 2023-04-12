@@ -1,21 +1,31 @@
 {
   "files": {
     "main.css": "/static/css/main.a192d03a.css",
-    "main.js": "/static/js/main.acf9c3ee.js",
+    "main.js": "/static/js/main.7ad432c2.js",
     "static/js/787.4db5dedc.chunk.js": "/static/js/787.4db5dedc.chunk.js",
+    "static/media/G3_Gunung Semeru.png": "/static/media/G3_Gunung Semeru.977feb6071fea1042366.png",
+    "static/media/G18_GB M.png": "/static/media/G18_GB M.68f3078565cbe1072d43.png",
     "static/media/home.png": "/static/media/home.eb21c08ab32faf047a8d.png",
     "static/media/Foto Gue Nih.png": "/static/media/Foto Gue Nih.66525bd0b2d733f7c368.png",
     "static/media/G2_Termometer.png": "/static/media/G2_Termometer.91729f6e8b0b1eb1e4a8.png",
     "static/media/PetaKonsep.png": "/static/media/PetaKonsep.17fcb70a2fc92e5fb446.png",
+    "static/media/G6. Bilangan Negatif Dan Positif Di Dalam Bilangan BUlat.png": "/static/media/G6. Bilangan Negatif Dan Positif Di Dalam Bilangan BUlat.4274d703692ae6e316b4.png",
     "static/media/acsent.png": "/static/media/acsent.b3f884602fbc0d88eecf.png",
+    "static/media/G9. GB Bab1.2.png": "/static/media/G9. GB Bab1.2.3fdb45b358e27b08d6a1.png",
+    "static/media/G11_GB Latihan 1_2.png": "/static/media/G11_GB Latihan 1_2.4a4b1bf0686da49659fa.png",
+    "static/media/G12_GB MB.png": "/static/media/G12_GB MB.bb9565f1cbc2b640f55f.png",
+    "static/media/G4.Timur dan Barat.png": "/static/media/G4.Timur dan Barat.4b43d8e26d9a84959316.png",
+    "static/media/G5. Latihan Soal 1.png": "/static/media/G5. Latihan Soal 1.404376857e38967b7dfd.png",
     "static/media/Bab_0_Gambar1_BB.jpg": "/static/media/Bab_0_Gambar1_BB.477fc9e99f18f4f2c431.jpg",
+    "static/media/G8. GB Bab1.2.png": "/static/media/G8. GB Bab1.2.a67ba2791a6c3e3123de.png",
+    "static/media/G10_GB Latihan 1_2.png": "/static/media/G10_GB Latihan 1_2.61b2582a3789f2a10e97.png",
     "index.html": "/index.html",
     "main.a192d03a.css.map": "/static/css/main.a192d03a.css.map",
-    "main.acf9c3ee.js.map": "/static/js/main.acf9c3ee.js.map",
+    "main.7ad432c2.js.map": "/static/js/main.7ad432c2.js.map",
     "787.4db5dedc.chunk.js.map": "/static/js/787.4db5dedc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a192d03a.css",
-    "static/js/main.acf9c3ee.js"
+    "static/js/main.7ad432c2.js"
   ]
 }
