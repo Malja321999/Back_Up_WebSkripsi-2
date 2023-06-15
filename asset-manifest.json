@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6903db64.css",
-    "main.js": "/static/js/main.ff218109.js",
+    "main.css": "/static/css/main.010ab586.css",
+    "main.js": "/static/js/main.2470a6e1.js",
     "static/js/787.4db5dedc.chunk.js": "/static/js/787.4db5dedc.chunk.js",
     "static/media/G3_Gunung Semeru.png": "/static/media/G3_Gunung Semeru.977feb6071fea1042366.png",
     "static/media/G18_GB M.png": "/static/media/G18_GB M.68f3078565cbe1072d43.png",
@@ -17,7 +17,6 @@
     "static/media/G11_GB Latihan 1_2.png": "/static/media/G11_GB Latihan 1_2.4a4b1bf0686da49659fa.png",
     "static/media/G12_GB MB.png": "/static/media/G12_GB MB.bb9565f1cbc2b640f55f.png",
     "static/media/G4.Timur dan Barat.png": "/static/media/G4.Timur dan Barat.4b43d8e26d9a84959316.png",
-    "static/media/G5. Latihan Soal 1.png": "/static/media/G5. Latihan Soal 1.404376857e38967b7dfd.png",
     "static/media/G49_MBab3.png": "/static/media/G49_MBab3.627c58ce9f0559c08b63.png",
     "static/media/G19_MBab2.png": "/static/media/G19_MBab2.b90016603dcedac95501.png",
     "static/media/Bab_0_Gambar1_BB.jpg": "/static/media/Bab_0_Gambar1_BB.477fc9e99f18f4f2c431.jpg",
@@ -28,12 +27,12 @@
     "static/media/G37_MBab2.png": "/static/media/G37_MBab2.c661ff503d0a7a366654.png",
     "static/media/G48_MBab3.png": "/static/media/G48_MBab3.a5c42d80d6ed92320b04.png",
     "index.html": "/index.html",
-    "main.6903db64.css.map": "/static/css/main.6903db64.css.map",
-    "main.ff218109.js.map": "/static/js/main.ff218109.js.map",
+    "main.010ab586.css.map": "/static/css/main.010ab586.css.map",
+    "main.2470a6e1.js.map": "/static/js/main.2470a6e1.js.map",
     "787.4db5dedc.chunk.js.map": "/static/js/787.4db5dedc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6903db64.css",
-    "static/js/main.ff218109.js"
+    "static/css/main.010ab586.css",
+    "static/js/main.2470a6e1.js"
   ]
 }
